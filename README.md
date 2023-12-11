@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Security as a Full Stack Developer<br>🌱 I’m currently learning more about Malware Analysis & Game Development (not much)<br>💬 Ask me about tech-related stuff and motocycles<br>⚡ Fun Fact: I love motocycles and old cars more than anything
+🔭 I’m currently working on Cyber Security as a Full Stack Developer<br>🌱 Learning more about Malware Analysis & Game Development (not much)<br>💬 Ask me about tech-related stuff and motocycles<br>⚡ Fun Fact: I love motocycles and old cars more than anything
 
 
 ## 🌐 Socials:
@@ -15,7 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
